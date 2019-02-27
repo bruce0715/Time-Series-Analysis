@@ -1,7 +1,7 @@
 ## Name: Bruce Zhu
 ## College: UCLA
 
-data=read.csv('Beijing_ori.csv')
+data=read.csv('data.csv')
 
 #transform_data
 
